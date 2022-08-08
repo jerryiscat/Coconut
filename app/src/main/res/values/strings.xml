@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_name">Enter a name</string>
+    <string name="button_save">Save</string>
+    <string name="edit_phone">Enter a phone number</string>
+    <string name="edit_email">Enter a email</string>
+    <string name="edit_relationship">Enter your relationship</string>
+    <string name="edit_contact_text">Edit Contact Text</string>
+</resources>
